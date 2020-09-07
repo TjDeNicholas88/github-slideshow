@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I hope my **death** makes more cents than my _life_.
 Use the left arrow to go back!
